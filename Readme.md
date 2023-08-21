@@ -1,3 +1,3 @@
 #Instruction
 
-The Number Guessing Game. you have to Guess between 1 and 100
+The Number Guessing Game. you have to Guess between 1 and 100.
